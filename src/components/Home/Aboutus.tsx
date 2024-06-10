@@ -4,7 +4,7 @@ const Aboutus = () => {
   return (
     <>
       <div className="w-full bg-primary flex max-lg:hidden relative my-[5%] h-[90vh] overflow-hidden">
-        <div className="w-[92%] bg-secondary h-[550px] rounded-tr-full rounded-br-full">
+        <div className="w-[92%] bg-secondary h-[90%] rounded-tr-full rounded-br-full">
           <div className="lg:w-[60%] p-10">
             <h3 className="uppercase font-bold text-center text-white text-[48px]">
               About US
