@@ -8,7 +8,7 @@ import Feedback from "../components/Home/Feedback";
 
 const Home = () => {
   return (
-    <div>
+    <div className='bg-image'>
       <Banner/>
       <Aboutus/>
       <Services/>

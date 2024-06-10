@@ -8,10 +8,27 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
   }
+
+  .bg-image {
+    background-image: url('/bg.svg');
+    background-size: cover; /* or any other value */
+    background-repeat: no-repeat; /* or any other value */
+    background-position: center; /* or any other value */
+    width: 100%;
+    height: auto; /* or any other value */
+  }
+  .clip{
+    clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+  }
+
   
   @layer utilities {
     .sec-padding {
       @apply py-[5%] px-[5%] max-lg:p-5 ;
     }
+    .bo{
+      @apply border border-white
+    }
+
   
   }
