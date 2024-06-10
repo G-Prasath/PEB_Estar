@@ -13,6 +13,7 @@ import Conventional from "./pages/Conventional";
 
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
+import RevealingSection from "./components/Revel";
 
 const App = () => {
   return (

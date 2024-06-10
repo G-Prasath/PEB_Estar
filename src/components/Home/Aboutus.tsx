@@ -9,21 +9,21 @@ const Aboutus = () => {
             <h3 className="uppercase font-bold text-center text-white text-[48px]">
               About US
             </h3>
-            <p className="text-white py-3 text-[1.3vw]">
+            <p className="text-white py-3 text-[20px]">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam
               porro ducimus adipisci velit nisi libero iure ab odio. Dignissimos
               vero magni, iure voluptas neque pariatur sequi laboriosam in quo
               fugit. Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Vitae, praesentium.
             </p>
-            <p className="text-white py-3 text-[1.3vw]">
+            <p className="text-white py-3 text-[20px]">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam
               porro ducimus adipisci velit nisi libero iure ab odio. Dignissimos
               vero magni, iure voluptas neque pariatur sequi laboriosam in quo
               fugit. Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Vitae, praesentium.
             </p>
-            <p className="text-white py-3 text-[1.3vw]">
+            <p className="text-white py-3 text-[20px]">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam
               porro ducimus adipisci velit nisi libero iure ab odio. Dignissimos
               vero magni, iure voluptas neque pariatur sequi laboriosam in quo

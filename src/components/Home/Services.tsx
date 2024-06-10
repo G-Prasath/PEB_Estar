@@ -27,7 +27,7 @@ const Services = () => {
               <p className='text-white text-[18px] my-4 max-md:text-justify'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque sapiente dolore vitae ducimus, consequatur ratione earum culpa accusantium, inventore rem voluptatum libero rerum quis atque. Voluptates quisquam neque corporis repudiandae.</p>
               <p className='text-white text-[18px] my-4 max-md:text-justify'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque sapiente dolore vitae ducimus, consequatur ratione earum culpa accusantium, inventore rem voluptatum libero rerum quis atque. Voluptates quisquam neque corporis repudiandae.</p>
             </div>
-            <div className='w-full aspect-video max-lg:order-1'>
+            <div className='w-full aspect-video max-lg:order-1 flex justify-end'>
               <img src="/service-2.png" alt="service one"  />
             </div>
           </div>
