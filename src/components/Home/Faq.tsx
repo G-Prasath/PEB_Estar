@@ -12,69 +12,59 @@ const Faq = () => {
       </div>
 
       <div className="w-full flex relative mt-[50px] max-lg:flex-col">
-
         <div className="w-1/6 max-lg:w-full aspect-square">
-          <img src="/faq.png" alt="FAQ" className="absolute w-[35%] max-lg:w-full" />
+          <img
+            src="/question.webp"
+            alt="FAQ"
+            className="absolute w-[35%] max-lg:w-full rounded-full"
+          />
         </div>
 
         <div className="w-5/6 max-lg:w-full flex justify-end max-lg:mt-5">
           <ul className="w-full flex flex-col gap-y-8 max-lg:gap-y-3">
             <li className="bg-[#065665] inline-flex justify-center py-2 max-lg:py-5 max-lg:px-3">
               <div>
-                <p className="text-[20px] font-[600] text-white">
-                  Lorem ipsum dolor sit amet.
+                <p className="text-[20px] font-[600] text-white mb-2">
+                  What are the typical lifespan and maintenance needs of a
+                  conventional shed?
                 </p>
                 <p className="text-[16px] text-white">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Quis, repellendus?
-                </p>
-                <p className="text-[16px] text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, hic.</p>
-               
-                 
-              </div>
-            </li>
-            <li className="bg-[#065665] inline-flex justify-center py-2 max-lg:py-5 max-lg:px-3">
-              <div>
-                <p className="text-[20px] font-[600] text-white">
-                  Lorem ipsum dolor sit amet.
-                </p>
-                <p className="text-[16px] text-white">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Quis, repellendus?
-                </p>
-                 <p className="text-[16px] text-white">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Quis, repellendus?
+                  Life expectancy changes with materials and support. Standard
+                  cleaning, painting, and fixes guarantee life span.
                 </p>
               </div>
             </li>
             <li className="bg-[#065665] inline-flex justify-center py-2 max-lg:py-5 max-lg:px-3">
               <div>
-                <p className="text-[20px] font-[600] text-white">
-                  Lorem ipsum dolor sit amet.
+                <p className="text-[20px] font-[600] text-white mb-2">
+                  What perceives pre-engineered buildings from traditional ones?
                 </p>
                 <p className="text-[16px] text-white">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Quis, repellendus?
-                </p>
-                 <p className="text-[16px] text-white">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Quis, repellendus?
+                  PEBs normally require less support because of tough materials
+                  and development methods.
                 </p>
               </div>
             </li>
             <li className="bg-[#065665] inline-flex justify-center py-2 max-lg:py-5 max-lg:px-3">
               <div>
-                <p className="text-[20px] font-[600] text-white">
-                  Lorem ipsum dolor sit amet.
+                <p className="text-[20px] font-[600] text-white  mb-2">
+                  Conventional sheds adapt for custom storage or workspace?
                 </p>
                 <p className="text-[16px] text-white">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Quis, repellendus?
+                  We can alter sheds with racks, apparatus racks, or segments
+                  for explicit necessities.
                 </p>
-                 <p className="text-[16px] text-white">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Quis, repellendus?
+              </div>
+            </li>
+            <li className="bg-[#065665] inline-flex justify-center py-2 max-lg:py-5 max-lg:px-3">
+              <div>
+                <p className="text-[20px] font-[600] text-white  mb-2">
+                  Advantages of opting for a pre-engineered building for my
+                  project?
+                </p>
+                <p className="text-[16px] text-white">
+                  PEBs offer fast, cost-effective, customizable, sustainable
+                  construction.
                 </p>
               </div>
             </li>

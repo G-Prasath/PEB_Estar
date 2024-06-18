@@ -31,8 +31,8 @@ const Banner: React.FC = () => {
           </SplideSlide>
         ))}
       </Splide>
-      <p className="text-white text-center px-8 py-5 max-md:hidden text-[17px] tracking-wide">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur obcaecati saepe est soluta ea, mollitia amet quos hic consectetur earum! Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia aut modi, nesciunt nam cumque reiciendis quae earum illo voluptatem voluptate. 
-     </p>
+      {/* <p className="text-white text-center px-8 py-5 max-md:hidden text-[17px] tracking-wide">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur obcaecati saepe est soluta ea, mollitia amet quos hic consectetur earum! Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia aut modi, nesciunt nam cumque reiciendis quae earum illo voluptatem voluptate. 
+     </p> */}
     </div>
   );
 };

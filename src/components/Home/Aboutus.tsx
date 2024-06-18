@@ -3,32 +3,28 @@ import React from "react";
 const Aboutus = () => {
   return (
     <>
-      <div className="w-full bg-primary flex max-lg:hidden relative my-[5%] h-[90vh] overflow-hidden">
+      <div className="w-full  flex max-lg:hidden relative my-[5%] h-[90vh] overflow-hidden">
         <div className="w-[92%] bg-secondary h-[85%] rounded-tr-full rounded-br-full">
           <div className="lg:w-[60%] p-10">
             <h3 className="uppercase font-bold text-center text-white text-[48px]">
               About US
             </h3>
             <p className="text-white py-3 text-[20px]">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam
-              porro ducimus adipisci velit nisi libero iure ab odio. Dignissimos
-              vero magni, iure voluptas neque pariatur sequi laboriosam in quo
-              fugit. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Vitae, praesentium.
+              We have practical experience in planning and developing top notch
+              Pre-Engineered Structures (PEB) and Conventional Structures
+              structures. With long stretches of skill in the business, we
+              convey creative and savvy solutions to meet our clients'
+              interesting necessities.
             </p>
             <p className="text-white py-3 text-[20px]">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam
-              porro ducimus adipisci velit nisi libero iure ab odio. Dignissimos
-              vero magni, iure voluptas neque pariatur sequi laboriosam in quo
-              fugit. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Vitae, praesentium.
+              Our PEB structures offer unparalleled flexibility and speed in
+              development, making them ideal for many applications including
+              stockrooms, plants, and business spaces. Our Conventional
+              structure administrations guarantee hearty, tastefully satisfying
+              designs dependable.
             </p>
             <p className="text-white py-3 text-[20px]">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam
-              porro ducimus adipisci velit nisi libero iure ab odio. Dignissimos
-              vero magni, iure voluptas neque pariatur sequi laboriosam in quo
-              fugit. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Vitae, praesentium.
+            Focused on excellence, we use advanced technologies and strict quality guidelines, ensuring timely, budget-friendly, reliable, and efficient building solutions.
             </p>
           </div>
         </div>
@@ -51,25 +47,21 @@ const Aboutus = () => {
               About US
             </h1>
             <p className="text-white py-3 text-[16px] text-justify">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam
-              porro ducimus adipisci velit nisi libero iure ab odio. Dignissimos
-              vero magni, iure voluptas neque pariatur sequi laboriosam in quo
-              fugit. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Vitae, praesentium.
+              We have practical experience in planning and developing top notch
+              Pre-Engineered Structures (PEB) and Conventional Structures
+              structures. With long stretches of skill in the business, we
+              convey creative and savvy solutions to meet our clients'
+              interesting necessities.
             </p>
             <p className="text-white py-3 text-[16px] text-justify">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam
-              porro ducimus adipisci velit nisi libero iure ab odio. Dignissimos
-              vero magni, iure voluptas neque pariatur sequi laboriosam in quo
-              fugit. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Vitae, praesentium.
+              Our PEB structures offer unparalleled flexibility and speed in
+              development, making them ideal for many applications including
+              stockrooms, plants, and business spaces. Our Conventional
+              structure administrations guarantee hearty, tastefully satisfying
+              designs dependable.
             </p>
             <p className="text-white py-3 text-[16px] text-justify">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam
-              porro ducimus adipisci velit nisi libero iure ab odio. Dignissimos
-              vero magni, iure voluptas neque pariatur sequi laboriosam in quo
-              fugit. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Vitae, praesentium.
+            
             </p>
           </div>
         </div>
