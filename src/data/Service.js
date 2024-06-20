@@ -1,0 +1,70 @@
+export const Peb1 = [
+  {
+    title: "Pre Engineered Building",
+    description: [
+      "Pre-Engineered Buildings (PEB) are prefabricated structures designed and manufactured off-site. They offer rapid construction, cost-effectiveness, and sustainability with customizable designs. PEBs are versatile, used widely in industrial, commercial, and residential sectors for efficient building solutions.",
+      "Application:",
+      "● Institutional Structures ",
+      "● Commercial Buildings",
+      "● Agricultural Buildings",
+      "● Sports and Recreation",
+      "● Industrial Facilities",
+    ],
+    images: ["/banner-1.jpeg", "/banner-2.jpeg", "/banner-3.jpeg"],
+  },
+];
+
+export const Peb2 = [
+  {
+    title: "Pre Engineered Building",
+    description: [
+      "● Faster construction reduces project timelines, minimizes labor costs, and accelerates occupancy or use, providing economic benefits and ensuring quicker return on investment for stakeholders.",
+      "● Pre-Engineered Buildings (PEBs) offer flexibility in design, allowing for customizable layouts, expansions, and modifications to meet specific needs and aesthetic preferences efficiently and cost-effectively.",
+      "● These structures facilitate easy dismantling and re-installation, enabling quick relocation or reconfiguration, making them ideal for temporary or evolving space requirements and efficient reuse.",
+      "● Multiple floors can be easily added, allowing vertical expansion without significant disruption, making it ideal for accommodating growing space requirements efficiently and flexibly.",
+      "● Design minimizes intermediate columns, maximizing open space and enhancing layout flexibility, making it ideal for large, unobstructed areas like warehouses, factories, and commercial buildings.",
+
+    ],
+    images: ["/banner-1.jpeg", "/banner-2.jpeg", "/banner-3.jpeg"],
+  },
+];
+
+
+
+
+
+
+export const conventional1 = [
+  {
+    title: "Pre Engineered Building",
+    description: [
+      "A conventional building is constructed using traditional methods, typically involving materials like concrete, steel, and brick. It follows standard architectural designs, requiring longer construction times and offering robust, enduring structures suitable for various uses.",
+      "Application:",
+      "● Educational Facilities ",
+      "● Retail Outlets",
+      "● Event Venues",
+      "● Workshops",
+      "● Factories",
+    ],
+    images: ["/banner-1.jpeg", "/banner-2.jpeg", "/banner-3.jpeg"],
+  },
+];
+
+export const conventional2 = [
+  {
+    title: "Pre Engineered Building",
+    description: [
+      "● Versatility: Ideal for various uses, ranging from efficient storage solutions to functional workspace environments, adapting easily to diverse application needs.",
+      
+      "● Customization allows for tailored designs that precisely meet specific functional needs, ensuring optimal use and efficiency in various applications and environments.",
+
+      "● Portability enables easy relocation, providing flexibility in site utilization for changing needs or environments, making it ideal for temporary or dynamic requirements across different settings.",
+
+      "● Sustainability in conventional sheds includes utilizing eco-friendly materials and construction methods, supporting environmental responsibility and resource conservation in building practices and material choices.",
+
+      "● Minimal maintenance for conventional sheds means reduced upkeep demands in contrast to larger buildings, offering cost savings and operational efficiency over the long term.",
+
+    ],
+    images: ["/banner-1.jpeg", "/banner-2.jpeg", "/banner-3.jpeg"],
+  },
+];

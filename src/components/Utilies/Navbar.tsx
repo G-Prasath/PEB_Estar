@@ -24,7 +24,7 @@ const Navbar = () => {
         },
         {
           subLabel: "convensional",
-          subPath: "/convensional",
+          subPath: "/conventional",
         },
       ],
     },
@@ -94,7 +94,8 @@ const Navbar = () => {
                                   <Link
                                     key={subIndex}
                                     to={subItem.subPath}
-                                    className="block px-4 py-2 text-sm text-primary hover:bg-gray-100 uppercase font-[600] hover:bg-primary hover:text-white "
+                                    className="block px-4 py-2 text-sm text-primary hover:bg-gray-100 uppercase font-[600] hover:bg-primary hover:text-white"
+                                    onClick={() => setOpenSubMenu(null)}
                                   >
                                     {subItem.subLabel}
                                   </Link>

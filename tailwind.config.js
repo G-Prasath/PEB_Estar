@@ -9,6 +9,18 @@ export default {
       backgroundImage: {
         'about-bg': "url('/round.png')",
       },
+      keyframes: {
+        slide: {
+          '0%': { transform: 'translateX(0%)' },
+          '33.33%': { transform: 'translateX(0%)' },
+          '50%': { transform: 'translateX(-100%)' },
+          '83.33%': { transform: 'translateX(-100%)' },
+          '100%': { transform: 'translateX(-200%)' },
+        },
+      },
+      animation: {
+        slide: 'slide 5s infinite',
+      },
     },
     colors: {
       primary: "#065665",
@@ -16,7 +28,7 @@ export default {
       white: "#fff",
       black: "#000",
       footer: "#04344E",
-      mini_footer: "#085D72"
+      mini_footer: "#085D72",
       
     },
     variants: {
