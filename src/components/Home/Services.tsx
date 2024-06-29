@@ -13,7 +13,7 @@ const Services = () => {
       <div className="flex my-10 flex-col">
         <div className="flex max-lg:flex-col my-5">
           <div className="w-full aspect-video max-md:pr-2">
-            <img src="/service-1.png" alt="service one" />
+            <img src="/Home/peb.png" alt="service one" />
           </div>
           <div className="w-full flex flex-col items-center p-10 max-lg:p-5">
             <h3 className="uppercase font-bold text-white text-[40px] max-lg:text-[28px] max-md:text-[25px]">
@@ -66,7 +66,7 @@ const Services = () => {
             </p>
           </div>
           <div className="w-full max-md:pl-2 aspect-video max-lg:order-1 flex justify-end">
-            <img src="/service-2.png" alt="service one" />
+            <img src="/Home/Conventional.png" alt="service one" />
           </div>
         </div>
       </div>

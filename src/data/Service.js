@@ -10,7 +10,7 @@ export const Peb1 = [
       "● Sports and Recreation",
       "● Industrial Facilities",
     ],
-    images: ["/banner-1.jpeg", "/banner-2.jpeg", "/banner-3.jpeg"],
+    images: ["/Service/PEB/1.png", "/Service/PEB/2.png", "/Service/PEB/3.png"],
   },
 ];
 
@@ -25,7 +25,7 @@ export const Peb2 = [
       "● Design minimizes intermediate columns, maximizing open space and enhancing layout flexibility, making it ideal for large, unobstructed areas like warehouses, factories, and commercial buildings.",
 
     ],
-    images: ["/banner-1.jpeg", "/banner-2.jpeg", "/banner-3.jpeg"],
+    images: ["/Service/PEB/4.png", "/Service/PEB/5.png", "/Service/PEB/6.png"],
   },
 ];
 
@@ -46,7 +46,7 @@ export const conventional1 = [
       "● Workshops",
       "● Factories",
     ],
-    images: ["/banner-1.jpeg", "/banner-2.jpeg", "/banner-3.jpeg"],
+    images: ["/Service/convensional/1.png", "/Service/convensional/2.png", "/Service/convensional/3.png"],
   },
 ];
 
@@ -65,6 +65,6 @@ export const conventional2 = [
       "● Minimal maintenance for conventional sheds means reduced upkeep demands in contrast to larger buildings, offering cost savings and operational efficiency over the long term.",
 
     ],
-    images: ["/banner-1.jpeg", "/banner-2.jpeg", "/banner-3.jpeg"],
+    images: ["/Service/convensional/4.png", "/Service/convensional/5.png", "/Service/convensional/6.png"],
   },
 ];

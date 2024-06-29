@@ -30,7 +30,7 @@ const Aboutus = () => {
         </div>
         <div className="flex flex-auto">
           <img
-            src="/about.png"
+            src="/Home/about.png"
             alt="about"
             className="max-w-[40%] ml-[-35%] absolute top-0 aspect-square"
           />

@@ -15,7 +15,7 @@ const Conventional = () => {
         <meta name="keywords" content={metaTags.keywords} />
       </Helmet>
       <div className="bg-image">
-        <Banner />
+        <Banner banner="/banners/conventional.jpg" />
         <Service card1={conventional1} card2={conventional2} />
       </div>
     </>

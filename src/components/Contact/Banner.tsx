@@ -168,11 +168,11 @@ const Banner = () => {
             </button>
           </form>
 
-          <div className="md:block lg:w-3/6 py-4 max-md:order-1 max-sm:px-5">
+          <div className="md:block lg:w-3/6 py-4 max-md:order-1 max-sm:px-5 border border-white">
             <img
               src="https://placehold.co/800x400"
               alt="Customer Service"
-              className="rounded-lg object-cover w-full aspect-video"
+              className="rounded-lg object-cover w-full "
             />
           </div>
         </div>

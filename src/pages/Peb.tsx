@@ -15,7 +15,7 @@ const Peb = () => {
         <meta name="keywords" content={metaTags.keywords} />
       </Helmet>
       <div className="bg-image">
-        <Banner />
+        <Banner banner="/banners/peb-banner.jpg" />
         <Service card1={Peb1} card2={Peb2} />
       </div>
     </>

@@ -3,7 +3,7 @@ import "@splidejs/splide/dist/css/splide.min.css";
 import { Splide, SplideSlide } from "@splidejs/react-splide";
 
 const Banner: React.FC = () => {
-  const images = ["/banner-1.jpeg", "/banner-2.jpeg", "/banner-3.jpeg"];
+  const images = ["/banners/banner-1.jpg", "/banners/banner-2.jpg", "/banners/banner-3.jpg"];
 
   const options = {
     type: "loop",
