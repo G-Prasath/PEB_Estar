@@ -40,7 +40,7 @@ const Team = () => {
             className="w-full md:w-1/3 p-4 flex flex-col items-center mb-10"
           >
             <img
-              className="rounded-full object-cover"
+              className="rounded-full w-1/2 object-cover"
               src={profile.imageUrl}
               alt={`Profile of ${profile.name}`}
             />

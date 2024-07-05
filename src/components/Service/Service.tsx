@@ -44,12 +44,12 @@ const Service = ({ card1, card2 }) => {
       {/* Types of Materials */}
       <div className="bg-secondary my-10 mx-10 p-6 rounded-lg text-white">
         <h2 className="text-center text-xl font-semibold mb-4">
-          We Have Warehouse Roofing Sheet Choices
+          Multiple Roofing Sheet Choices
         </h2>
         <div className="flex flex-col md:flex-row justify-around items-center gap-6">
           <div className="flex flex-col items-center p-4 rounded-lg text-black">
             <img
-              src="https://placehold.co/350x200"
+              src="/puf.jpg"
               alt="PUF Panel Roofing Sheet"
               className="mb-2 rounded-lg"
             />
@@ -57,11 +57,29 @@ const Service = ({ card1, card2 }) => {
           </div>
           <div className="flex flex-col items-center p-4 rounded-lg text-black">
             <img
-              src="https://placehold.co/350x200"
+              src="/GI.jpg"
               alt="PUF Panel Roofing Sheet"
               className="mb-2 rounded-lg"
             />
-            <p>PUF Panel Roofing Sheet</p>
+            <p>G.I Roofing Sheet</p>
+          </div>
+        </div>
+        <div className="flex flex-col md:flex-row justify-around items-center gap-6">
+          <div className="flex flex-col items-center p-4 rounded-lg text-black">
+            <img
+              src="/Polycabonate.jpg"
+              alt="PUF Panel Roofing Sheet"
+              className="mb-2 rounded-lg"
+            />
+            <p>Polycarbonate Roofing Sheet</p>
+          </div>
+          <div className="flex flex-col items-center p-4 rounded-lg text-black">
+            <img
+              src="/Tensile.jpg"
+              alt="PUF Panel Roofing Sheet"
+              className="mb-2 rounded-lg"
+            />
+            <p>Tensile Roofing Sheet</p>
           </div>
         </div>
       </div>
@@ -89,8 +107,8 @@ const Service = ({ card1, card2 }) => {
               </div>
             </div>
 
-            <div className="bg-secondary lg:ml-[5%] flex justify-end items-end lg:h-[50vh] lg:rounded-tl-full lg:rounded-bl-full p-5">
-              <div className="lg:w-[60%] w-full flex justify-end flex-col">
+            <div className="bg-secondary lg:ml-[5%] flex justify-end items-end lg:min-h-0 lg:w-full lg:rounded-tl-full lg:rounded-bl-full p-5">
+              <div className="lg:w-[60%] w-full  flex flex-col justify-start">
                 {data.description.map((paragraph, pIndex) => (
                   <p key={pIndex} className="my-2">
                     {paragraph}

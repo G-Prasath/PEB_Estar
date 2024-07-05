@@ -20,9 +20,9 @@ export const Peb2 = [
     description: [
       "● Faster construction reduces project timelines, minimizes labor costs, and accelerates occupancy or use, providing economic benefits and ensuring quicker return on investment for stakeholders.",
       "● Pre-Engineered Buildings (PEBs) offer flexibility in design, allowing for customizable layouts, expansions, and modifications to meet specific needs and aesthetic preferences efficiently and cost-effectively.",
-      "● These structures facilitate easy dismantling and re-installation, enabling quick relocation or reconfiguration, making them ideal for temporary or evolving space requirements and efficient reuse.",
-      "● Multiple floors can be easily added, allowing vertical expansion without significant disruption, making it ideal for accommodating growing space requirements efficiently and flexibly.",
-      "● Design minimizes intermediate columns, maximizing open space and enhancing layout flexibility, making it ideal for large, unobstructed areas like warehouses, factories, and commercial buildings.",
+      "● Easy dismantling and re-installation, enabling quick relocation or reconfiguration, making them ideal for temporary or evolving space requirements and efficient reuse.",
+      "● Multiple floors can be easily added, allowing vertical expansion without significant disruption, making it ideal for requirements efficiently and flexibly.",
+      "● Design minimizes intermediate columns, maximizing open space and enhancing layout flexibility, making it ideal for large warehouses, factories, and commercial buildings.",
 
     ],
     images: ["/Service/PEB/4.png", "/Service/PEB/5.png", "/Service/PEB/6.png"],
@@ -52,7 +52,7 @@ export const conventional1 = [
 
 export const conventional2 = [
   {
-    title: "Pre Engineered Building",
+    title: "Conventional Shed",
     description: [
       "● Versatility: Ideal for various uses, ranging from efficient storage solutions to functional workspace environments, adapting easily to diverse application needs.",
       
@@ -60,9 +60,9 @@ export const conventional2 = [
 
       "● Portability enables easy relocation, providing flexibility in site utilization for changing needs or environments, making it ideal for temporary or dynamic requirements across different settings.",
 
-      "● Sustainability in conventional sheds includes utilizing eco-friendly materials and construction methods, supporting environmental responsibility and resource conservation in building practices and material choices.",
+      "● Sustainability in sheds involves eco-friendly materials and methods, promoting environmental responsibility and resource conservation.",
 
-      "● Minimal maintenance for conventional sheds means reduced upkeep demands in contrast to larger buildings, offering cost savings and operational efficiency over the long term.",
+      "● Minimal maintenance for sheds means lower upkeep than larger buildings, providing long-term cost savings and operational efficiency.",
 
     ],
     images: ["/Service/convensional/4.png", "/Service/convensional/5.png", "/Service/convensional/6.png"],

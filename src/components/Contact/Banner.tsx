@@ -89,7 +89,7 @@ const Banner = () => {
 
   return (
     <div className="w-full aspect-video">
-      <img src="/banner-3.jpeg" alt="" className="w-full aspect-video" />
+      <img src="/about-banner.jpg" alt="" className="w-full aspect-video" />
 
       <div className="bg-primary py-10">
         <h2 className="uppercase text-center text-[30px] font-[600] mb-3">
@@ -168,9 +168,9 @@ const Banner = () => {
             </button>
           </form>
 
-          <div className="md:block lg:w-3/6 py-4 max-md:order-1 max-sm:px-5 border border-white">
+          <div className="md:block lg:w-3/6 py-4 max-md:order-1 max-sm:px-5">
             <img
-              src="https://placehold.co/800x400"
+              src="contact.png"
               alt="Customer Service"
               className="rounded-lg object-cover w-full "
             />

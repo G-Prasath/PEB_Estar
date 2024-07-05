@@ -16,7 +16,7 @@ const AboutSection = () => {
           </div>
           <div className="mt-8 md:mt-0">
             <img
-              src="https://placehold.co/800x500"
+              src="/block.png"
               alt="About Us Image"
               className="rounded-r-lg rounded-l-full max-sm:rounded-lg rounded-lg shadow-lg "
             />

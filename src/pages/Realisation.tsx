@@ -103,12 +103,12 @@ const Realisation: React.FC = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
 
   const images: ImageData[] = [
-    { src: "https://placehold.co/600x600", title: "PEB 1" },
-    { src: "https://placehold.co/300x300", title: "CONVENTIONAL  2" },
-    { src: "https://placehold.co/300x300", title: "CONVENTIONAL  3" },
-    { src: "https://placehold.co/300x300", title: "PEB 4" },
-    { src: "https://placehold.co/300x300", title: "CONVENTIONAL  5" },
-    { src: "https://placehold.co/600x600", title: "PEB 6" },
+    { src: "/gallery/1.jpg", title: "PEB 1" },
+    { src: "/gallery/3.png", title: "CONVENTIONAL  2" },
+    { src: "/gallery/4.png", title: "CONVENTIONAL  3" },
+    { src: "/gallery/6.png", title: "PEB 4" },
+    { src: "/gallery/5.png", title: "CONVENTIONAL  5" },
+    { src: "/gallery/2.jpg", title: "PEB 6" },
   ];
 
   const openLightbox = (index: number) => {
